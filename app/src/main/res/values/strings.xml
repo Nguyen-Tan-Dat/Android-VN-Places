@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vietnam places</string>
+    <string name="tab_wards">Ward</string>
+    <string name="tab_districts">District</string>
+    <string name="tab_provinces">Province</string>
+    <string name="tab_vehicle">Vehicle number</string>
+</resources>
